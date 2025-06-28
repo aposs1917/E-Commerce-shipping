@@ -1,7 +1,7 @@
 # E-Commerce-shipping
 
 The current project predicts whether a shipment of a product ordered online is late or not
-The accuracy scores of the models used are low but a 90% precision was reached using a random forest classifier
+The accuracy scores of the models used are low (68%)
 
 # Algorithms used
 SVM classification, K-nearest neighbors, random forest, Logistic regression
